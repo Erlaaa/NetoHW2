@@ -29,6 +29,6 @@ class Main {
                 break;
             }
         }
-        System.out.println(score);
+        System.out.println("Набрано очков: " + score);
     }
 }
